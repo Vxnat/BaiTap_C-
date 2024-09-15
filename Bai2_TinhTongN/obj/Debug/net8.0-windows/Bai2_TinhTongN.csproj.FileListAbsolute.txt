@@ -1,0 +1,16 @@
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\bin\Debug\net8.0-windows\Bai2_TinhTongN.exe
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\bin\Debug\net8.0-windows\Bai2_TinhTongN.deps.json
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\bin\Debug\net8.0-windows\Bai2_TinhTongN.runtimeconfig.json
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\bin\Debug\net8.0-windows\Bai2_TinhTongN.dll
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\bin\Debug\net8.0-windows\Bai2_TinhTongN.pdb
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.Form1.resources
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.csproj.GenerateResource.cache
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.AssemblyInfoInputs.cache
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.AssemblyInfo.cs
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.csproj.CoreCompileInputs.cache
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.dll
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\refint\Bai2_TinhTongN.dll
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.pdb
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\Bai2_TinhTongN.genruntimeconfig.cache
+C:\Hoc_Tap\Net_C#_Project\Bai2_TinhTongN\obj\Debug\net8.0-windows\ref\Bai2_TinhTongN.dll

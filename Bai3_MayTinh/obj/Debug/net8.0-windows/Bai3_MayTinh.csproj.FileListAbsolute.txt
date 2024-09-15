@@ -1,0 +1,16 @@
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\bin\Debug\net8.0-windows\Bai3_MayTinh.exe
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\bin\Debug\net8.0-windows\Bai3_MayTinh.deps.json
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\bin\Debug\net8.0-windows\Bai3_MayTinh.runtimeconfig.json
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\bin\Debug\net8.0-windows\Bai3_MayTinh.dll
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\bin\Debug\net8.0-windows\Bai3_MayTinh.pdb
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.Form1.resources
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.csproj.GenerateResource.cache
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.AssemblyInfoInputs.cache
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.AssemblyInfo.cs
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.csproj.CoreCompileInputs.cache
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.dll
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\refint\Bai3_MayTinh.dll
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.pdb
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\Bai3_MayTinh.genruntimeconfig.cache
+C:\Hoc_Tap\Net_C#_Project\Bai3_MayTinh\obj\Debug\net8.0-windows\ref\Bai3_MayTinh.dll
